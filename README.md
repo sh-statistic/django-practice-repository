@@ -1,0 +1,1 @@
+You must create the file same sample_settings.py whit name local_settings.py in each projects and write your SECRET_KEY to run this project for you
